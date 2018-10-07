@@ -1,7 +1,5 @@
 /**
 * my file
-
-
 * package-info.java
 */
 
