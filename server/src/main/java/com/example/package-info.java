@@ -1,4 +1,4 @@
-/**t.
+/**
 * my file.
 * package-info.java 3.
 */
