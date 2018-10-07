@@ -8,3 +8,8 @@ forked from jleetutorial/maven-project
 
 2018 10 06
 saturday research.
+
+
+## now from Pycharm 222 to commit to Git -- 10:27
+let us see
+222
